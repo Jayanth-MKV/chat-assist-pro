@@ -1,4 +1,5 @@
 # FAQ Customer Support Chatbot API
+ChatAssist Pro is an advanced AI-powered chatbot designed to streamline customer support interactions. It offers prompt and accurate responses to a wide range of customer queries, from order tracking to account management, ensuring a seamless and efficient user experience. With intuitive handling of FAQs and intelligent intent recognition.
 
 https://replit.com/@HappyHappy19/chatbotapi
 
